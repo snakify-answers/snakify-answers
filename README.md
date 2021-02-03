@@ -25,57 +25,57 @@ Status: Complete
 Section 4 Answers can be found here: https://github.com/snakify-awnsers/section-4 <br>
 Status: Complete
 
-## Section 5
+## Section 5 - Strings
 
 Section 5 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 6
+## Section 6 - While loops
 
 Section 6 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 7
+## Section 7 - Lists
 
 Section 7 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 8
+## Section 8 - Functions and Rescursion
 
 Section 8 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 9
+## Section 9 - Two-dimensional Lists (arrays)
 
 Section 9 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 10
+## Section 10 - Sets
 
 Section 10 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 11
+## Section 11 - Dictionaries
 
 Section 11 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 12
+## Section 12 - JavaScript
 
 Section 12 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 13
+## Section 13 - HTML5 & CSS
 
 Section 13 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 14
+## Section 14 - Responsive Design with Bootstrap
 
 Section 14 Answers can be found here: <link> <br>
 Status: Not Started
 
-## Section 15
+## Section 15 - jQuery
 
 Section 5 Answers can be found here: <link> <br>
 Status: Not Started
