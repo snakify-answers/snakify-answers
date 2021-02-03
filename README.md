@@ -9,12 +9,22 @@ Last Updated: 03/02/21 @ 11:22
 
 Section 1 Answers can be found here: https://github.com/snakify-answers/section-1
 
-## More will be added later.
+## Section 2 - Interger and float numbers
+
+Section 2 Answers can be found here: https://github.com/snakify-answers/section-2
 
 ## Todo
 
-Section 2<br>
 Section 3<br>
 Section 4<br>
 Section 5<br>
 Section 6<br>
+Section 7<br>
+Section 8<br>
+Section 9<br>
+Secton 10<br>
+Section 11<br>
+Section 12<br>
+Section 13<br>
+Section 14<br>
+Section 15<br>
