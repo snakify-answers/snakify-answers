@@ -13,8 +13,8 @@ Section 1 Answers can be found here: https://github.com/snakify-answers/section-
 
 ## Todo
 
-Section 2
-Section 3
-Section 4
-Section 5
-Section 6
+Section 2<br>
+Section 3<br>
+Section 4<br>
+Section 5<br>
+Section 6<br>
