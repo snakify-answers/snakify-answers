@@ -3,7 +3,7 @@
 ## About Us
 
 Here you can find most of the answers to the Snakify questions.
-Last Updated: 03/02/21 @ 11:22
+Last Updated: 03/02/21 @ 15:15
 
 ## Section 1 - Input, Print and Numbers
 
