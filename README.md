@@ -13,16 +13,19 @@ Section 1 Answers can be found here: https://github.com/snakify-answers/section-
 
 Section 2 Answers can be found here: https://github.com/snakify-answers/section-2
 
+## Section 3 - Conditions - if, elif, else
+
+Section 3 Answers can be found here: https://github.com/snakify-answers/section-3
+
 ## Todo
 
-Section 3<br>
 Section 4<br>
 Section 5<br>
 Section 6<br>
 Section 7<br>
 Section 8<br>
 Section 9<br>
-Secton 10<br>
+Section 10<br>
 Section 11<br>
 Section 12<br>
 Section 13<br>
