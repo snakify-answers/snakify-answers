@@ -87,4 +87,4 @@ Google Form: <link>
 
 ## Other Infomation
 
-Nothing here at the minute.
+This is been managed by 1 person and I am going to be doing them at my own pace.
