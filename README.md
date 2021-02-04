@@ -22,7 +22,7 @@ Status: Complete
 
 ## Section 4 - For Loops with Range
 
-Section 4 Answers can be found here: https://github.com/snakify-awnsers/section-4 <br>
+Section 4 Answers can be found here: https://github.com/snakify-answers/section-4 <br>
 Status: Complete
 
 ## Section 5 - Strings
