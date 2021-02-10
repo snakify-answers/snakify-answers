@@ -28,7 +28,7 @@ Status: Complete
 ## Section 5 - Strings
 
 Section 5 Answers can be found here: <link> <br>
-Status: Not Started
+Status: Started
 
 ## Section 6 - While loops
 
