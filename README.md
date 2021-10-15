@@ -27,13 +27,13 @@ Status: Complete
 
 ## Section 5 - Strings
 
-Section 5 Answers can be found here: <https://github.com/snakify-answers/section-5> <br>
+Section 5 Answers can be found here: https://github.com/snakify-answers/section-5 <br>
 Status: Complete
 
 ## Section 6 - While loops
 
-Section 6 Answers can be found here: <link> <br>
-Status: Not Started
+Section 6 Answers can be found here: https://github.com/snakify-answers/Section-6 <br>
+Status: Starting
 
 ## Section 7 - Lists
 
