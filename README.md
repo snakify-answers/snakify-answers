@@ -27,8 +27,8 @@ Status: Complete
 
 ## Section 5 - Strings
 
-Section 5 Answers can be found here: <link> <br>
-Status: Started
+Section 5 Answers can be found here: <https://github.com/snakify-answers/section-5> <br>
+Status: Complete
 
 ## Section 6 - While loops
 
